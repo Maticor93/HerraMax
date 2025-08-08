@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.egg-info/
+*.eggs/
+.eggs/
+*.cache
+*.pyo
+*.pyd
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg
+*.whl
+
+# Poetry virtual environments
+.poetry/
+.env
+.venv/
+env/
+venv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+*.sqlite3
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains IDEs (PyCharm)
+.idea/
+
+# Local environment variables
+.env.local
+.env.*
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+logs/
+*.log
